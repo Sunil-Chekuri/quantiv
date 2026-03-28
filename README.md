@@ -60,10 +60,9 @@ git clone https://github.com/Sunil-Chekuri/quantiv.git
 cd quantiv
 
 Install dependencies using uv:
-```bash
 uv sync
 
-
+---
 ## Running the API
 
 Start the FastAPI server:
